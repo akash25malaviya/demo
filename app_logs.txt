@@ -1,0 +1,10 @@
+2024-10-29 10:57:40,799 - INFO - Application startup: Background task for monitoring new incidents initiated.
+2024-10-29 10:57:40,800 - INFO - Starting MongoDB Change Stream to watch 'incidentsCopy' collection for new entries.
+2024-10-29 10:57:47,791 - INFO - Application startup: Background task for monitoring new incidents initiated.
+2024-10-29 10:57:47,791 - INFO - Starting MongoDB Change Stream to watch 'incidentsCopy' collection for new entries.
+2024-10-29 10:57:54,269 - INFO - API request received for incident_id: I00009
+2024-10-29 10:57:54,270 - INFO - RCA already exists for incident_id: I00009, retrieving existing RCA.
+2024-10-29 10:58:40,061 - INFO - API request received for incident_id: I00009
+2024-10-29 10:58:40,062 - INFO - Generating RCA for incident_id: I00009 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#error']
+2024-10-29 10:58:46,147 - INFO - RCA generated successfully for incident_id: I00009
+2024-10-29 10:58:46,148 - INFO - RCA stored in 'rca' collection for incident_id: I00009
