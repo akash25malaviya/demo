@@ -8,3 +8,66 @@
 2024-10-29 10:58:40,062 - INFO - Generating RCA for incident_id: I00009 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#error']
 2024-10-29 10:58:46,147 - INFO - RCA generated successfully for incident_id: I00009
 2024-10-29 10:58:46,148 - INFO - RCA stored in 'rca' collection for incident_id: I00009
+2024-11-22 13:55:46,860 - INFO - Application startup: Background task for monitoring new incidents initiated.
+2024-11-22 13:55:46,860 - INFO - Starting MongoDB Change Stream to watch 'incidentsCopy' collection for new entries.
+2024-11-22 14:02:13,770 - INFO - API request received for incident_id: I00004
+2024-11-22 14:02:13,776 - INFO - Generating RCA for incident_id: I00004 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#test', '#error']
+2024-11-22 14:02:25,375 - INFO - RCA generated successfully for incident_id: I00004
+2024-11-22 14:02:25,385 - INFO - RCA stored in 'rca' collection for incident_id: I00004
+2024-11-22 14:06:47,085 - INFO - Application startup: Background task for monitoring new incidents initiated.
+2024-11-22 14:06:47,085 - INFO - Starting MongoDB Change Stream to watch 'incidentsCopy' collection for new entries.
+2024-11-22 14:07:35,469 - INFO - API request received for incident_id: I00004
+2024-11-22 14:07:35,479 - INFO - Generating RCA for incident_id: I00004 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#test', '#error']
+2024-11-22 14:07:46,660 - INFO - RCA generated successfully for incident_id: I00004
+2024-11-22 14:07:46,661 - INFO - RCA stored in 'rca' collection for incident_id: I00004
+2024-11-22 14:14:26,488 - INFO - Application startup: Background task for monitoring new incidents initiated.
+2024-11-22 14:14:26,488 - INFO - Starting MongoDB Change Stream to watch 'incidentsCopy' collection for new entries.
+2024-11-22 14:14:45,060 - INFO - API request received for incident_id: I00004
+2024-11-22 14:14:45,061 - INFO - RCA already exists for incident_id: I00004, retrieving existing RCA.
+2024-11-22 14:15:03,933 - INFO - API request received for incident_id: I00004
+2024-11-22 14:15:03,944 - INFO - Generating RCA for incident_id: I00004 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#test', '#error']
+2024-11-22 14:15:10,679 - INFO - RCA generated successfully for incident_id: I00004
+2024-11-22 14:15:10,680 - INFO - RCA stored in 'rca' collection for incident_id: I00004
+2024-11-22 14:20:23,683 - INFO - Application startup: Background task for monitoring new incidents initiated.
+2024-11-22 14:20:23,683 - INFO - Starting MongoDB Change Stream to watch 'incidentsCopy' collection for new entries.
+2024-11-22 14:20:29,709 - INFO - API request received for incident_id: I00004
+2024-11-22 14:20:29,710 - INFO - RCA already exists for incident_id: I00004, retrieving existing RCA.
+2024-11-22 14:20:30,669 - INFO - API request received for incident_id: I00004
+2024-11-22 14:20:30,670 - INFO - RCA already exists for incident_id: I00004, retrieving existing RCA.
+2024-11-22 14:20:44,724 - INFO - API request received for incident_id: I00004
+2024-11-22 14:20:44,734 - INFO - Generating RCA for incident_id: I00004 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#test', '#error']
+2024-11-22 14:20:56,752 - INFO - RCA generated successfully for incident_id: I00004
+2024-11-22 14:20:56,753 - INFO - RCA stored in 'rca' collection for incident_id: I00004
+2024-11-22 14:36:05,965 - INFO - Application startup: Background task for monitoring new incidents initiated.
+2024-11-22 14:36:05,965 - INFO - Starting MongoDB Change Stream to watch 'incidentsCopy' collection for new entries.
+2024-11-22 14:36:11,289 - INFO - API request received for incident_id: I00004
+2024-11-22 14:36:11,289 - INFO - RCA already exists for incident_id: I00004, retrieving existing RCA.
+2024-11-22 14:36:32,704 - INFO - API request received for incident_id: I00004
+2024-11-22 14:36:32,705 - INFO - Generating RCA for incident_id: I00004 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#test', '#error']
+2024-11-22 14:36:40,675 - INFO - RCA generated successfully for incident_id: I00004
+2024-11-22 14:36:40,685 - INFO - RCA stored in 'rca' collection for incident_id: I00004
+2024-11-22 14:46:47,151 - INFO - API request received for incident_id: I00004
+2024-11-22 14:46:47,152 - INFO - RCA already exists for incident_id: I00004, retrieving existing RCA.
+2024-11-22 14:47:56,659 - INFO - API request received for incident_id: I00004
+2024-11-22 14:47:56,660 - INFO - RCA already exists for incident_id: I00004, retrieving existing RCA.
+2024-11-22 14:49:46,348 - INFO - Application startup: Background task for monitoring new incidents initiated.
+2024-11-22 14:49:46,348 - INFO - Starting MongoDB Change Stream to watch 'incidentsCopy' collection for new entries.
+2024-11-22 14:49:49,675 - INFO - API request received for incident_id: I00004
+2024-11-22 14:49:49,676 - INFO - Outdated RCA found for incident_id: I00004. Generating new RCA.
+2024-11-22 14:49:49,676 - INFO - Generating RCA for incident_id: I00004 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#test', '#error']
+2024-11-22 14:49:54,748 - INFO - RCA generated successfully for incident_id: I00004
+2024-11-22 14:49:54,759 - INFO - New RCA stored for incident_id: I00004
+2024-11-22 14:50:23,730 - INFO - API request received for incident_id: I00004
+2024-11-22 14:50:23,731 - INFO - Outdated RCA found for incident_id: I00004. Generating new RCA.
+2024-11-22 14:50:23,732 - INFO - Generating RCA for incident_id: I00004 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#test', '#error']
+2024-11-22 14:50:31,384 - INFO - RCA generated successfully for incident_id: I00004
+2024-11-22 14:50:31,386 - INFO - New RCA stored for incident_id: I00004
+2024-11-22 14:50:58,967 - INFO - API request received for incident_id: I00004
+2024-11-22 14:50:58,968 - INFO - RCA already generated by GlassX for incident_id: I00004. Returning existing RCA.
+2024-11-22 14:51:14,583 - INFO - API request received for incident_id: I00004
+2024-11-22 14:51:14,584 - INFO - RCA already generated by GlassX for incident_id: I00004. Returning existing RCA.
+2024-11-22 14:51:25,112 - INFO - API request received for incident_id: I00004
+2024-11-22 14:51:25,112 - INFO - Outdated RCA found for incident_id: I00004. Generating new RCA.
+2024-11-22 14:51:25,113 - INFO - Generating RCA for incident_id: I00004 with description: ' 400 bad request error' and tags: ['#400', '#bad', '#request', '#test', '#error']
+2024-11-22 14:51:41,541 - INFO - RCA generated successfully for incident_id: I00004
+2024-11-22 14:51:41,542 - INFO - New RCA stored for incident_id: I00004
