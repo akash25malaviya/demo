@@ -1,3 +1,5 @@
+#program to list bedrock models  ,@thiru
+
 import boto3
 from botocore.exceptions import ClientError
 
