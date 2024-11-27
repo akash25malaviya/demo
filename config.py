@@ -6,5 +6,8 @@ class Config:
 
 
 class BedrockConfig:
-    BEDROCK_MODEL_ID = "bedrock-model-id"
+    MODEL_ID = "amazon.titan-text-premier-v1:0"
     BEDROCK_API_KEY = "bedrock-api-key"
+    aws_access_key_id = "AKIAUTVZZQXVAKZOEFLM"
+    aws_secret_access_key = "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"
+    AWS_REGION = "us-east-1"
